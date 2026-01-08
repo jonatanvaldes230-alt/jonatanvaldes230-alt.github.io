@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Cisco verifies the earner of this badge successfully completed the Creating Compelling Reports course and achieved this student level credential. Earner has knowledge of why reports are valuable in business contexts, and how to select appropriate tone, key points of relevance and organizational structure to communicate a specific message to a particular audience. Completed up to 24 scenario-based interactions and one immersive branching scenario. <br/><img src='/images/CCR.png' width='50' height='50'>"
 collection: portfolio
 ---
 
